@@ -127,7 +127,7 @@ double [][] preu = {  {1.1, 0.8, 1.5},
                 preu[posi1][posi2]=noupreu;
             break;
         }   
-        }while(sal.equals("S"));
+        }while(caso != 0);
     
          }
 }
